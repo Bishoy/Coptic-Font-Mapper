@@ -6,10 +6,10 @@ However, it can be useful for already current text so i thought to put it out th
 I also believe it should work for other non-unicode fonts, if the correct map file is provided of course.
 
 ### How It Works
-1- A file Coptic-Fonts-File.docx should be created and will contain a table with which characters/tokens map to which other characters in the target font
+1. A file Coptic-Fonts-File.docx should be created and will contain a table with which characters/tokens map to which other characters in the target font
 A sample file is already included in the source above 
-2- The source and target fonts are selected from the drop downs
-2- The two text boxes one for source and the other for target can be used to convert the font.
+2. The source and target fonts are selected from the drop downs
+3. The two text boxes one for source and the other for target can be used to convert the font.
 
 ### Known Issues
 The application will attempt to install the fonts it has (in fonts folder) , however that doesn't necessarily work :D .. 
