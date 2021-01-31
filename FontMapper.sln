@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontMapper", "FontMapper\FontMapper.csproj", "{8116FDFB-9348-4889-8424-03CEFFBF8DBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{29BD0731-4242-41EB-A0C4-73EB791EE411}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8116FDFB-9348-4889-8424-03CEFFBF8DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8116FDFB-9348-4889-8424-03CEFFBF8DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8116FDFB-9348-4889-8424-03CEFFBF8DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8116FDFB-9348-4889-8424-03CEFFBF8DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3157F3-C103-4C4A-AFB2-9E80F1A36862}
+	EndGlobalSection
+EndGlobal
